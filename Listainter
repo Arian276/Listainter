@@ -1,23 +1,47 @@
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="24 Horas $" tvg-logo="http://puntoz.xyz/LOGOS/24horas.png" group-title="ESPANA",24 Horas $
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/187
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="24 Horas ￥" tvg-logo="http://puntoz.xyz/LOGOS/24horas.png" group-title="ESPANA",24 Horas ￥
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/185
 #EXTINF:-1 tvg-id="" tvg-name="== HONDURAS ==" tvg-logo="" group-title="HONDURAS",== HONDURAS ==
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/2659
 #EXTINF:-1 tvg-id="" tvg-name="=== COLOMBIA ===" tvg-logo="http://puntoz.net/LOGOS/colombia250.png" group-title="COLOMBIA",=== COLOMBIA ===
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/2151
 #EXTINF:-1 tvg-id="" tvg-name="=== CUBA ===" tvg-logo="" group-title="CUBA",=== CUBA ===
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/2656
+#EXTINF:-1 tvg-id="" tvg-name="=== ESPANA ===" tvg-logo="" group-title="ESPANA",=== ESPANA ===
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/2657
 #EXTINF:-1 tvg-id="" tvg-name="=== VENEZUELA ===" tvg-logo="http://puntoz.net/LOGOS/LIGA.png" group-title="VENEZUELA",=== VENEZUELA ===
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1727
+#EXTINF:-1 tvg-id="A3Cine.(Atrescine).es" tvg-name="A3CINE ✤" tvg-logo="http://puntoz.xyz/LOGOS/A3Cine.png" group-title="ESPANA",A3CINE ✤
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/208
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="A3Series ✵" tvg-logo="http://puntoz.xyz/LOGOS/atreserieshd.png" group-title="ESPANA",A3Series ✵
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/209
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC ♫" tvg-logo="http://puntoz.xyz/LOGOS/amc.png" group-title="ESPANA",AMC ♫
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/225
+#EXTINF:-1 tvg-id="Canal.Antena.3.mx" tvg-name="Antena 3 Inter ￥" tvg-logo="http://puntoz.xyz/LOGOS/Antena_3_internacional.png" group-title="ESPANA",Antena 3 Inter ￥
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/249
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3 ☢" tvg-logo="http://puntoz.xyz/LOGOS/Antena_3.png" group-title="ESPANA",Antena 3 ☢
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/250
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN ≋" tvg-logo="http://puntoz.xyz/LOGOS/axn.png" group-title="ESPANA",AXN ≋
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/284
 #EXTINF:-1 tvg-id="aztecahonduras.hn" tvg-name="Azteca Honduras $" tvg-logo="http://puntoz.xyz/LOGOS/aztecahonduras.png" group-title="HONDURAS",Azteca Honduras $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/299
+#EXTINF:-1 tvg-id="Be.Mad.es" tvg-name="Be Mad ¤" tvg-logo="http://puntoz.xyz/LOGOS/be_mad.png" group-title="ESPANA",Be Mad ¤
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/319
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="Cable Noticias $" tvg-logo="http://puntoz.xyz/LOGOS/cablenoticias.png" group-title="COLOMBIA",Cable Noticias $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/350
 #EXTINF:-1 tvg-id="CableNoticias.co" tvg-name="Cable Noticias ✤" tvg-logo="http://puntoz.xyz/LOGOS/cablenoticias.png" group-title="COLOMBIA",Cable Noticias ✤
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/352
 #EXTINF:-1 tvg-id="" tvg-name="Cali TV $" tvg-logo="http://puntoz.xyz/LOGOS/calitv.png" group-title="COLOMBIA",Cali TV $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/355
+#EXTINF:-1 tvg-id="Calle.13.es" tvg-name="Calle 13 ¤" tvg-logo="http://puntoz.xyz/LOGOS/calle_13.png" group-title="ESPANA",Calle 13 ¤
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/356
 #EXTINF:-1 tvg-id="canal11.hn" tvg-name="Canal 11 $" tvg-logo="http://puntoz.xyz/LOGOS/canal11.png" group-title="HONDURAS",Canal 11 $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/365
 #EXTINF:-1 tvg-id="canal5.hn" tvg-name="Canal 5 $" tvg-logo="http://puntoz.xyz/LOGOS/canal5ellider.png" group-title="HONDURAS",Canal 5 $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/387
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="Canal DeCasa ≋" tvg-logo="http://puntoz.xyz/LOGOS/decasa.png" group-title="ESPANA",Canal DeCasa ≋
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/399
 #EXTINF:-1 tvg-id="Canal.1.co" tvg-name="Canal UNO ★" tvg-logo="http://puntoz.xyz/LOGOS/canaluno.png" group-title="COLOMBIA",Canal UNO ★
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/404
 #EXTINF:-1 tvg-id="Canal.1.co" tvg-name="Canal UNO. ✤" tvg-logo="http://puntoz.xyz/LOGOS/canaluno.png" group-title="COLOMBIA",Canal UNO. ✤
@@ -30,30 +54,86 @@ http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/408
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/412
 #EXTINF:-1 tvg-id="Canal.Caracol.Internacional.cr" tvg-name="Caracol. Inter ≋" tvg-logo="http://puntoz.xyz/LOGOS/caracolinternacional.png" group-title="COLOMBIA",Caracol. Inter ≋
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/413
+#EXTINF:-1 tvg-id="Caza.y.Pesca.es" tvg-name="Caza y Pesca ☢" tvg-logo="http://puntoz.xyz/LOGOS/caza_y_pesca.png" group-title="ESPANA",Caza y Pesca ☢
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/419
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Cinco ☢" tvg-logo="http://puntoz.xyz/LOGOS/telecinco.png" group-title="ESPANA",Cinco ☢
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/451
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Cinco ￥" tvg-logo="http://puntoz.xyz/LOGOS/telecinco.png" group-title="ESPANA",Cinco ￥
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1566
 #EXTINF:-1 tvg-id="citytv.co.dtv" tvg-name="City TV ✤" tvg-logo="http://puntoz.xyz/LOGOS/citytv1.png" group-title="COLOMBIA",City TV ✤
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/515
 #EXTINF:-1 tvg-id="citytv.co.dtv" tvg-name="City TV ￥" tvg-logo="http://puntoz.xyz/LOGOS/citytv1.png" group-title="COLOMBIA",City TV ￥
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/514
+#EXTINF:-1 tvg-id="Comedy.Central.es" tvg-name="Comedy Central ☢" tvg-logo="http://puntoz.xyz/LOGOS/comedy_central.png" group-title="ESPANA",Comedy Central ☢
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/548
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro ￥" tvg-logo="http://puntoz.xyz/LOGOS/Cuatro.png" group-title="ESPANA",Cuatro ￥
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/562
 #EXTINF:-1 tvg-id="" tvg-name="Cubavision Internacional ¤" tvg-logo="http://puntoz.xyz/LOGOS/cubavisioninternacional.png" group-title="CUBA",Cubavision Internacional ¤
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/563
 #EXTINF:-1 tvg-id="" tvg-name="Cubavision ¤" tvg-logo="http://puntoz.xyz/LOGOS/cubavision.png" group-title="CUBA",Cubavision ¤
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/564
 #EXTINF:-1 tvg-id="dtelevision.hn" tvg-name="D Television $" tvg-logo="http://puntoz.xyz/LOGOS/dtv.png" group-title="HONDURAS",D Television $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/567
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="Dark ✪" tvg-logo="http://puntoz.net/LOGOS/dark.png" group-title="ESPANA",Dark ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/569
 #EXTINF:-1 tvg-id="tvcdeportes.hn" tvg-name="Deportes TVC $" tvg-logo="http://puntoz.net/LOGOS/DEPORTESTVC.png" group-title="HONDURAS",Deportes TVC $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/618
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity ￥" tvg-logo="http://puntoz.xyz/LOGOS/divinity.png" group-title="ESPANA",Divinity ￥
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/680
+#EXTINF:-1 tvg-id="Dkiss.es" tvg-name="Dkiss ✪" tvg-logo="http://puntoz.xyz/LOGOS/dkiss.png" group-title="ESPANA",Dkiss ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/681
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy ￥" tvg-logo="http://puntoz.xyz/LOGOS/energy.png" group-title="ESPANA",Energy ￥
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/729
+#EXTINF:-1 tvg-id="Canal.Extremadura.TV.es" tvg-name="Extremadura TV ≋" tvg-logo="https://dl.dropboxusercontent.com/s/2cp13rjnhmsop4v/extremaduratv.png" group-title="ESPANA",Extremadura TV ≋
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/779
+#EXTINF:-1 tvg-id="FDF.Telecinco.es" tvg-name="FDF ￥" tvg-logo="http://puntoz.xyz/LOGOS/fdf.png" group-title="ESPANA",FDF ￥
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/791
 #EXTINF:-1 tvg-id="hch.hn" tvg-name="HCH $" tvg-logo="http://puntoz.xyz/LOGOS/hchnuevo.png" group-title="HONDURAS",HCH $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/882
 #EXTINF:-1 tvg-id="hch.hn" tvg-name="HCH (Q)" tvg-logo="http://puntoz.xyz/LOGOS/hchnuevo.png" group-title="HONDURAS",HCH (Q)
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/883
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="Historia ✪" tvg-logo="http://puntoz.xyz/LOGOS/historiaes.png" group-title="ESPANA",Historia ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/888
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="Hollywood ✪" tvg-logo="http://puntoz.net/LOGOS/hollywood.png" group-title="ESPANA",Hollywood ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/895
+#EXTINF:-1 tvg-id="La.1.HD.es" tvg-name="LA 1 ƒ" tvg-logo="http://puntoz.net/LOGOS/la1.png" group-title="ESPANA",LA 1 ƒ
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/923
+#EXTINF:-1 tvg-id="La.1.HD.es" tvg-name="LA 1 ✵" tvg-logo="http://puntoz.net/LOGOS/la1.png" group-title="ESPANA",LA 1 ✵
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/924
+#EXTINF:-1 tvg-id="La.2.es" tvg-name="LA 2 ƒ" tvg-logo="http://puntoz.xyz/LOGOS/la2.png" group-title="ESPANA",LA 2 ƒ
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/926
+#EXTINF:-1 tvg-id="La.2.es" tvg-name="LA 2 ✵" tvg-logo="http://puntoz.net/LOGOSPRENDETV/lafamiliap.luche.png" group-title="ESPANA",LA 2 ✵
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/925
+#EXTINF:-1 tvg-id="laSexta.es" tvg-name="La Sexta ƒ" tvg-logo="http://puntoz.xyz/LOGOS/la_sexta.png" group-title="ESPANA",La Sexta ƒ
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/937
+#EXTINF:-1 tvg-id="M+.Acción.es" tvg-name="M+ Accion ✪" tvg-logo="http://puntoz.net/LOGOS/accionpormovistar128.png" group-title="ESPANA",M+ Accion ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/979
+#EXTINF:-1 tvg-id="M+.Comedia.es" tvg-name="M+ Comedia ✪" tvg-logo="http://puntoz.net/LOGOS/comediapormovistar128.png" group-title="ESPANA",M+ Comedia ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/980
+#EXTINF:-1 tvg-id="M+.Drama.es" tvg-name="M+ Drama ✪" tvg-logo="http://puntoz.net/LOGOS/dramapormovistar128.png" group-title="ESPANA",M+ Drama ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/981
+#EXTINF:-1 tvg-id="M+.Originales.es" tvg-name="M+ Originales ✦" tvg-logo="http://puntoz.net/LOGOS/originaleespormovistar.png" group-title="ESPANA",M+ Originales ✦
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/982
+#EXTINF:-1 tvg-id="Movistar.Plus.es" tvg-name="M+ zMov1star+ ♫" tvg-logo="http://puntoz.net/LOGOS/movistarpluses.png" group-title="ESPANA",M+ zMov1star+ ♫
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/983
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA ƒ" tvg-logo="http://puntoz.net/LOGOS/megaes2.png" group-title="ESPANA",MEGA ƒ
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/994
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA ♫" tvg-logo="http://puntoz.net/LOGOS/megaes2.png" group-title="ESPANA",MEGA ♫
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/995
 #EXTINF:-1 tvg-id="" tvg-name="Meridiano TV (Q)" tvg-logo="http://puntoz.xyz/LOGOS/meridiano.png" group-title="VENEZUELA",Meridiano TV (Q)
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/999
 #EXTINF:-1 tvg-id="" tvg-name="Multivision ☆" tvg-logo="http://puntoz.xyz/LOGOS/multivision.png" group-title="CUBA",Multivision ☆
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1074
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox ƒ" tvg-logo="http://puntoz.net/LOGOS/Neox12.png" group-title="ESPANA",Neox ƒ
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1096
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 ₮" tvg-logo="http://puntoz.xyz/LOGOS/ntn24.png" group-title="COLOMBIA",NTN24 ₮
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1113
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 ￥" tvg-logo="http://puntoz.xyz/LOGOS/ntn24.png" group-title="COLOMBIA",NTN24 ￥
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1114
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="Odisea ✦" tvg-logo="http://puntoz.xyz/LOGOS/Odiseanew.png" group-title="ESPANA",Odisea ✦
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1118
+#EXTINF:-1 tvg-id="Paramount.Network.es" tvg-name="Paramount ≋" tvg-logo="http://puntoz.xyz/LOGOS/Paramount.png" group-title="ESPANA",Paramount ≋
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1134
 #EXTINF:-1 tvg-id="" tvg-name="Promar TV ★" tvg-logo="http://puntoz.xyz/LOGOS/promar.png" group-title="VENEZUELA",Promar TV ★
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1170
 #EXTINF:-1 tvg-id="RCN.Novelas.co" tvg-name="RCN Novelas ☆" tvg-logo="http://puntoz.xyz/LOGOS/rcnnovela.png" group-title="COLOMBIA",RCN Novelas ☆
@@ -72,6 +152,12 @@ http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1181
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1210
 #EXTINF:-1 tvg-id="Señal.Colombia.co" tvg-name="Senal Colombia ✤" tvg-logo="http://puntoz.xyz/LOGOS/senalcolombia.png" group-title="COLOMBIA",Senal Colombia ✤
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1217
+#EXTINF:-1 tvg-id="Star.es" tvg-name="Star Tve (rtve play) ƒ" tvg-logo="http://puntoz.xyz/LOGOS/startve.png" group-title="ESPANA",Star Tve (rtve play) ƒ
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1257
+#EXTINF:-1 tvg-id="Sundance.Channel.es" tvg-name="Sundance TV ✪" tvg-logo="http://puntoz.xyz/LOGOS/sundance_tv.png" group-title="ESPANA",Sundance TV ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1267
+#EXTINF:-1 tvg-id="Syfy.es" tvg-name="SYFY ✪" tvg-logo="http://puntoz.xyz/LOGOS/syfy.png" group-title="ESPANA",SYFY ✪
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1277
 #EXTINF:-1 tvg-id="tdtv.hn" tvg-name="TDTV $" tvg-logo="http://puntoz.xyz/LOGOS/tdtv.png" group-title="HONDURAS",TDTV $
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1291
 #EXTINF:-1 tvg-id="tdtv.hn" tvg-name="TDTV ☆" tvg-logo="http://puntoz.xyz/LOGOS/tdtv.png" group-title="HONDURAS",TDTV ☆
@@ -112,6 +198,10 @@ http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1344
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1392
 #EXTINF:-1 tvg-id="canal11.hn" tvg-name="TSI ●" tvg-logo="http://puntoz.xyz/LOGOS/tsi.png" group-title="HONDURAS",TSI ●
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1393
+#EXTINF:-1 tvg-id="" tvg-name="Tve America (rtve play) ƒ" tvg-logo="http://puntoz.xyz/LOGOS/tve.png" group-title="ESPANA",Tve America (rtve play) ƒ
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1425
+#EXTINF:-1 tvg-id="TVE.Internacional.es" tvg-name="TVE ₮" tvg-logo="http://puntoz.xyz/LOGOS/tve.png" group-title="ESPANA",TVE ₮
+http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1426
 #EXTINF:-1 tvg-id="" tvg-name="Ve Plus ¤" tvg-logo="http://puntoz.xyz/LOGOS/veplus.png" group-title="VENEZUELA",Ve Plus ¤
 http://ampztl.xyz:8080/Ch1lI3prem/fARQ79xYwZYR/1484
 #EXTINF:-1 tvg-id="" tvg-name="Venevision (Q)" tvg-logo="http://puntoz.xyz/LOGOS/venevisionjjj.png" group-title="VENEZUELA",Venevision (Q)
